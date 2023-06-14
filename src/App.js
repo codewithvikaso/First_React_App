@@ -7,6 +7,8 @@ function App() {
 
       <div>
         <h1>Hello, This is Vikas</h1>
+        <h1>I am a Python Developer</h1>
+        <p>Also, I am a Django Developer</p>
       </div>
 
     </>
